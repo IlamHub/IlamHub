@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=C084FC&center=true&vCenter=true&width=600&lines=Hey+there%2C+I'm+Ilam+%F0%9F%91%8B;Cloud+Security+Engineer+in+Progress;Cybersecurity+Learner+%7C+DevOps+Explorer;SOC+Analyst+%E2%86%92+Cloud+Security+Path" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=C084FC&center=true&vCenter=true&width=600&lines=Hey+there%2C+I'm+Ilam;Cloud+Security+Engineer+in+Progress;Cybersecurity+Learner+%7C+DevOps+Explorer;SOC+Analyst+%E2%86%92+Cloud+Security+Path" alt="Typing SVG" />
 </h1>
 
 <p align="center">
@@ -8,15 +8,15 @@
 
 <p align="center">
   <a href="https://github.com/IlamHub">
-    <img src="https://komarev.com/ghpvc/?username=IlamHub&label=Profile+Views&color=7c3aed&style=for-the-badge&logo=eye&logoColor=white" alt="profile views"/>
+    <img src="https://komarev.com/ghpvc/?username=IlamHub&label=Profile+Views&color=7c3aed&style=for-the-badge" alt="profile views"/>
   </a>
-  &nbsp;
+  &nbsp;&nbsp;
   <a href="https://github.com/IlamHub?tab=followers">
-    <img src="https://img.shields.io/github/followers/IlamHub?label=Followers&style=for-the-badge&color=8b5cf6&labelColor=0d1117&logo=github&logoColor=white" alt="followers"/>
+    <img src="https://img.shields.io/github/followers/IlamHub?label=Followers&style=for-the-badge&color=8b5cf6&logo=github&logoColor=white" alt="followers"/>
   </a>
-  &nbsp;
+  &nbsp;&nbsp;
   <a href="https://github.com/IlamHub?tab=stars">
-    <img src="https://img.shields.io/github/stars/IlamHub?label=Stars&style=for-the-badge&color=a78bfa&labelColor=0d1117&logo=github&logoColor=white" alt="stars"/>
+    <img src="https://img.shields.io/github/stars/IlamHub?label=Stars&style=for-the-badge&color=a78bfa&logo=github&logoColor=white" alt="stars"/>
   </a>
 </p>
 
@@ -123,14 +123,6 @@
 
 ---
 
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=IlamHub&theme=onestar&no-frame=true&no-bg=true&margin-w=4&row=1" />
-</p>
-
----
-
 ## 📈 Contribution Activity
 
 <p align="center">
@@ -153,15 +145,18 @@
 
 <p align="center">
   <a href="https://github.com/IlamHub">
-    <img src="https://img.shields.io/badge/GitHub-IlamHub-0d1117?style=for-the-badge&logo=github&logoColor=white"/>
+    <img src="https://img.shields.io/badge/GitHub-IlamHub-7c3aed?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
+  &nbsp;
   <a href="https://www.linkedin.com/in/ilam-mtr/">
-    <img src="https://img.shields.io/badge/LinkedIn-Ilam-7c3aed?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-Ilam-8b5cf6?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
+  &nbsp;
   <a href="https://tryhackme.com/">
     <img src="https://img.shields.io/badge/TryHackMe-Ilam-a78bfa?style=for-the-badge&logo=tryhackme&logoColor=white"/>
   </a>
 </p>
+
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=c084fc&height=80&section=footer"/>
 </p>
