@@ -15,15 +15,28 @@
 
 ## 🧠 About Me
 
-```yaml
-role: Cloud Security Engineer (in progress)
-current_focus:
-  - SOC Analyst Tier 1 → Cloud Security Engineering
-  - AWS Security | IAM | Cloud Monitoring
-  - Threat Detection & Incident Response
-os: Arch Linux + Hyprland 🐧
-learning_via: TryHackMe · CTFs · Real-world labs · Certifications
-```
+<table>
+  <tr>
+    <td>🎯 <strong>Goal</strong></td>
+    <td>SOC Analyst Tier 1 → Cloud Security Engineer</td>
+  </tr>
+  <tr>
+    <td>🔐 <strong>Focus</strong></td>
+    <td>AWS Security · IAM · Threat Detection · Incident Response</td>
+  </tr>
+  <tr>
+    <td>🐧 <strong>Daily Driver</strong></td>
+    <td>Arch Linux + Hyprland</td>
+  </tr>
+  <tr>
+    <td>📚 <strong>Learning Via</strong></td>
+    <td>TryHackMe · CTFs · Real-world labs · Certifications</td>
+  </tr>
+  <tr>
+    <td>⚡ <strong>Fun Fact</strong></td>
+    <td>I use Arch btw 🙃</td>
+  </tr>
+</table>
 
 ---
 
@@ -97,14 +110,6 @@ learning_via: TryHackMe · CTFs · Real-world labs · Certifications
 
 ---
 
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=IlamHub&theme=onestar&no-frame=true&no-bg=true&margin-w=4&row=1" />
-</p>
-
----
-
 ## 📈 Contribution Activity
 
 <p align="center">
@@ -115,11 +120,11 @@ learning_via: TryHackMe · CTFs · Real-world labs · Certifications
 
 ## 🎯 Goals for 2026
 
-🏅 Earn a Cloud / Cybersecurity Certification (AWS SAA / CompTIA Security+)
-🔭 Build a solid **SOC + Cloud Security portfolio**
-🧪 Complete 50+ TryHackMe & CTF labs
-💼 Land a **SOC Analyst Tier 1** role
-☁️ Transition toward **Cloud Security Engineering**
+- [ ] 🏅 Earn a Cloud / Cybersecurity Certification (AWS SAA / CompTIA Security+)
+- [ ] 🔭 Build a solid **SOC + Cloud Security portfolio**
+- [ ] 🧪 Complete 50+ TryHackMe & CTF labs
+- [ ] 💼 Land a **SOC Analyst Tier 1** role
+- [ ] ☁️ Transition toward **Cloud Security Engineering**
 
 ---
 
