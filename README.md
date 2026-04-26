@@ -3,12 +3,23 @@
 </h1>
 
 <p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,20,24&height=2&width=100%25" />
+</p>
+<p align="center">
   <a href="https://github.com/IlamHub">
-    <img src="https://komarev.com/ghpvc/?username=IlamHub&label=Profile+Views&color=c084fc&style=flat-square" alt="profile views"/>
+    <img src="https://komarev.com/ghpvc/?username=IlamHub&label=👁️ Profile+Views&color=7c3aed&style=for-the-badge" alt="profile views"/>
   </a>
+  &nbsp;
   <a href="https://github.com/IlamHub?tab=followers">
-    <img src="https://img.shields.io/github/followers/IlamHub?label=Followers&style=flat-square&color=c084fc" alt="followers"/>
+    <img src="https://img.shields.io/github/followers/IlamHub?label=🤝 Followers&style=for-the-badge&color=8b5cf6&labelColor=0d1117" alt="followers"/>
   </a>
+  &nbsp;
+  <a href="https://github.com/IlamHub?tab=stars">
+    <img src="https://img.shields.io/github/stars/IlamHub?label=⭐ Stars&style=for-the-badge&color=a78bfa&labelColor=0d1117" alt="stars"/>
+  </a>
+</p>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,20,24&height=2&width=100%25" />
 </p>
 
 ---
