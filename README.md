@@ -1,11 +1,9 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=C084FC&center=true&vCenter=true&width=750&lines=Hey+there%2C+I'm+Ilam+%F0%9F%91%8B;Cloud+Security+Engineer+in+Progress;Cybersecurity+Learner+%7C+DevOps+Explorer;SOC+Analyst+%E2%86%92+Cloud+Security+Path" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=C084FC&center=true&vCenter=true&width=750&lines=Hey+there%2C+I'm+Ilam+;Cloud+Security+Engineer+in+Progress;Cybersecurity+Learner+%7C+DevOps+Explorer;SOC+Analyst+%E2%86%92+Cloud+Security+Path" alt="Typing SVG" />
 </h1>
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=2&width=100%25" />
 </p>
-
 <p align="center">
   <a href="https://github.com/IlamHub">
     <img src="https://komarev.com/ghpvc/?username=IlamHub&label=Profile+Views&color=7c3aed&style=for-the-badge" alt="profile views"/>
@@ -19,7 +17,6 @@
     <img src="https://img.shields.io/github/stars/IlamHub?label=Stars&style=for-the-badge&color=a78bfa&logo=github&logoColor=white" alt="stars"/>
   </a>
 </p>
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=2&width=100%25" />
 </p>
@@ -28,7 +25,7 @@
 
 ## 🧠 About Me
 
-<table width="100%">
+<table>
   <tr>
     <td>🎯 <strong>Goal</strong></td>
     <td>SOC Analyst Tier 1 → Cloud Security Engineer</td>
@@ -58,9 +55,7 @@
 ### 💻 Languages
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,javascript,html,css&theme=dark" />
-  <br/>
-  <img src="https://skillicons.dev/icons?i=c,dart,bash,ruby&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=python,javascript,html,css,c,dart,bash,ruby&theme=dark" />
   <br/><br/>
   <img src="https://img.shields.io/badge/Verilog-HDL-7c3aed?style=for-the-badge&logo=v&logoColor=white"/>
   <img src="https://img.shields.io/badge/Puppet-IaC-a78bfa?style=for-the-badge&logo=puppet&logoColor=white"/>
@@ -103,25 +98,14 @@
 
 ---
 
-## 📌 Featured Projects
-
-- 🔍 **[Cloud Security Notes](https://github.com/IlamHub)** — AWS security concepts, IAM policies & best practices
-- ⚙️ **[Linux Automation Scripts](https://github.com/IlamHub)** — Security-focused system automation with Bash
-- 🌐 **[Networking Labs](https://github.com/IlamHub)** — Packet analysis, protocols & traffic investigation
-- 🧪 **[CTF Writeups](https://github.com/IlamHub)** — Step-by-step walkthroughs & learning breakdowns
-
----
-
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=IlamHub&show_icons=true&hide_border=true&bg_color=0d1117&title_color=c084fc&icon_color=a78bfa&text_color=e2e8f0&ring_color=c084fc" width="80%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=IlamHub&show_icons=true&hide_border=true&bg_color=0d1117&title_color=c084fc&icon_color=a78bfa&text_color=e2e8f0&ring_color=c084fc" width="48%" />
+  <img src="https://streak-stats.demolab.com/?user=IlamHub&hide_border=true&background=0d1117&ring=c084fc&fire=f472b6&currStreakLabel=c084fc&sideLabels=a78bfa&dates=94a3b8&stroke=c084fc&sideNums=e2e8f0&currStreakNum=e2e8f0" width="48%" />
 </p>
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=IlamHub&hide_border=true&background=0d1117&ring=c084fc&fire=f472b6&currStreakLabel=c084fc&sideLabels=a78bfa&dates=94a3b8&stroke=c084fc&sideNums=e2e8f0&currStreakNum=e2e8f0" width="80%" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IlamHub&layout=compact&hide_border=true&bg_color=0d1117&title_color=c084fc&text_color=e2e8f0&langs_count=10" width="80%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IlamHub&layout=compact&hide_border=true&bg_color=0d1117&title_color=c084fc&text_color=e2e8f0&langs_count=10" width="48%" />
 </p>
 
 ---
@@ -156,7 +140,7 @@
   </a>
   &nbsp;
   <a href="https://tryhackme.com/">
-    <img src="https://img.shields.io/badge/TryHackMe-Ilam-a78bfa?style=for-the-badge&logo=tryhackme&logoColor=white"/>
+    <img src="https://img.shields.io/badge/TryHackMe-ilam.edu-a78bfa?style=for-the-badge&logo=tryhackme&logoColor=white"/>
   </a>
 </p>
 
