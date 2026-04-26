@@ -1,19 +1,19 @@
 <h1 align="center">Hi 👋, I'm Ilam</h1>
-<h3 align="center">Cybersecurity Learner | Future SOC Analyst | DevOps Explorer</h3>
+<h3 align="center">Cloud Security Engineer in Progress | Cybersecurity Learner | DevOps Explorer</h3>
 
 <p align="center">
-  <a href="https://github.com/YOUR_USERNAME">
-    <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20views&color=0e75b6&style=flat" alt="profile views"/>
+  <a href="https://github.com/IlamHub">
+    <img src="https://komarev.com/ghpvc/?username=IlamHub&label=Profile%20views&color=0e75b6&style=flat" alt="profile views"/>
   </a>
 </p>
 
 ---
 
-## 🧠 About Me  
-- 🎯 Goal: Become a **SOC Analyst (Security Operations Center analyst)**  
-- 🔍 Focused on: **Incident Response, Threat Detection, Cloud Security**  
+## ☁️ About Me  
+- 🎯 Goal: Become a **Cloud Security Engineer**  
+- 🔐 Focused on: **Cloud Security, Threat Detection, Incident Response**  
 - 🐧 Linux user (Arch / Kali)  
-- ⚙️ Learning through labs, CTFs, and real-world simulations  
+- ⚙️ Learning through **hands-on labs, CTFs, and real-world simulations**  
 
 ---
 
@@ -28,46 +28,46 @@
 <p>
   <img src="https://img.shields.io/badge/SIEM-Learning-blue?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Incident%20Response-Beginner-green?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/TryHackMe-Active-red?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Threat%20Detection-Learning-red?style=for-the-badge"/>
 </p>
 
-### ☁️ DevOps & Cloud  
+### ☁️ Cloud & DevOps  
 <p>
-  <img src="https://skillicons.dev/icons?i=docker,aws" />
+  <img src="https://skillicons.dev/icons?i=aws,docker,linux" />
 </p>
 
 ---
 
 ## 🚀 Currently Working On  
-- 🧪 TryHackMe labs & CTF challenges  
-- 🛡️ Incident detection & response skills  
-- ⚙️ Linux automation (shell scripting)  
-- 📂 Cybersecurity notes & mini-projects  
+- ☁️ Cloud security fundamentals (AWS + security concepts)  
+- 🧪 TryHackMe labs & real-world attack simulations  
+- 🛡️ Incident detection & response  
+- ⚙️ Linux automation using shell scripting  
 
 ---
 
 ## 📌 Featured Projects  
-- 🔍 **SOC Lab Notes** – Attack scenarios & detection techniques  
-- ⚙️ **Linux Automation Scripts** – System + security scripts  
-- 🌐 **Networking Labs** – Understanding traffic flow  
-- 🧪 **CTF Writeups** – Step-by-step solutions  
+- 🔍 **Cloud Security Notes** – AWS security concepts & best practices  
+- ⚙️ **Linux Automation Scripts** – Security + system scripts  
+- 🌐 **Networking Labs** – Understanding traffic & protocols  
+- 🧪 **CTF Writeups** – Step-by-step solutions & learning insights  
 
 ---
 
 ## 📊 GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=IlamHub&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=IlamHub&theme=tokyonight" />
 </p>
 
 ---
 
 ## 🏆 Goals for 2026  
-- ✔️ Build a strong cybersecurity portfolio  
-- ✔️ Complete hands-on labs & CTFs  
-- ✔️ Contribute to open-source  
-- ✔️ Land a cybersecurity internship  
+- ✔️ Build a strong **cloud security portfolio**  
+- ✔️ Gain hands-on experience with AWS security  
+- ✔️ Complete advanced labs & CTFs  
+- ✔️ Land a cloud/cybersecurity internship  
 
 ---
 
@@ -76,12 +76,7 @@
   <a href="https://github.com/IlamHub">
     <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github"/>
   </a>
-  <a href="#">
-    <img src="https://img.shields.io/badge/LinkedIn-Coming%20Soon-blue?style=for-the-badge&logo=linkedin"/>
+  <a href="https://www.linkedin.com/in/ilam-mtr/">
+    <img src="https://img.shields.io/badge/LinkedIn-Ilam-blue?style=for-the-badge&logo=linkedin"/>
   </a>
 </p>
-
----
-
-## ⚡ Fun Fact  
-I prefer learning through **real attack simulations** rather than just theory.
