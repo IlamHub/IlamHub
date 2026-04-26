@@ -150,7 +150,7 @@
   </a>
   &nbsp;
   <a href="https://tryhackme.com/">
-    <img src="https://img.shields.io/badge/TryHackMe-Ilam-a78bfa?style=for-the-badge&logo=tryhackme&logoColor=white"/>
+    <img src="https://img.shields.io/badge/TryHackMe-ilam.edu-a78bfa?style=for-the-badge&logo=tryhackme&logoColor=white"/>
   </a>
 </p>
 
