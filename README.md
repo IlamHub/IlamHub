@@ -94,7 +94,6 @@
 | 🛡️ SOC Analyst Skills (SIEM, Log Analysis) | 🔄 In Progress |
 | 🐧 Linux Automation via Shell Scripting | 🔄 Active |
 | 🧪 TryHackMe Labs & CTF Challenges | 🔄 Active |
-| 📜 Azure AZ-900 & AI-900 | ✅ Teaching |
 
 ---
 
