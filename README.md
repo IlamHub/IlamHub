@@ -100,11 +100,11 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=IlamHub&show_icons=true&hide_border=true&bg_color=0d1117&title_color=c084fc&icon_color=a78bfa&text_color=e2e8f0&ring_color=c084fc" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=IlamHub&show_icons=true&hide_border=true&bg_color=0d1117&title_color=c084fc&icon_color=a78bfa&text_color=e2e8f0&ring_color=c084fc&cache_seconds=86400" width="48%" />
   <img src="https://streak-stats.demolab.com/?user=IlamHub&hide_border=true&background=0d1117&ring=c084fc&fire=f472b6&currStreakLabel=c084fc&sideLabels=a78bfa&dates=94a3b8&stroke=c084fc&sideNums=e2e8f0&currStreakNum=e2e8f0" width="48%" />
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IlamHub&layout=compact&hide_border=true&bg_color=0d1117&title_color=c084fc&text_color=e2e8f0&langs_count=10" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=IlamHub&layout=compact&hide_border=true&bg_color=0d1117&title_color=c084fc&text_color=e2e8f0&langs_count=10&cache_seconds=86400" width="48%" />
 </p>
 
 ---
