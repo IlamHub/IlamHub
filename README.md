@@ -12,11 +12,11 @@
   </a>
   &nbsp;&nbsp;
   <a href="https://github.com/IlamHub?tab=followers">
-    <img src="https://img.shields.io/github/followers/IlamHub?label=Followers&style=for-the-badge&color=8b5cf6&logo=github&logoColor=white" alt="followers"/>
+    <img src="https://img.shields.io/github/followers/IlamHub?label=Followers&style=for-the-badge&color=8b5cf6&logo=github&logoColor=white&v=1" alt="followers"/>
   </a>
   &nbsp;&nbsp;
   <a href="https://github.com/IlamHub?tab=stars">
-    <img src="https://img.shields.io/github/stars/IlamHub?label=Stars&style=for-the-badge&color=a78bfa&logo=github&logoColor=white" alt="stars"/>
+    <img src="https://img.shields.io/github/stars/IlamHub?label=Stars&style=for-the-badge&color=a78bfa&logo=github&logoColor=white&v=1" alt="stars"/>
   </a>
 </p>
 
@@ -59,9 +59,9 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,javascript,html,css,c,dart,bash,ruby&theme=dark" />
   <br/><br/>
-  <img src="https://img.shields.io/badge/Verilog-HDL-7c3aed?style=for-the-badge&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Puppet-IaC-a78bfa?style=for-the-badge&logo=puppet&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Shell-Scripting-8b5cf6?style=for-the-badge&logo=gnubash&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Verilog-HDL-7c3aed?style=for-the-badge&logoColor=white&v=1"/>
+  <img src="https://img.shields.io/badge/Puppet-IaC-a78bfa?style=for-the-badge&logo=puppet&logoColor=white&v=1"/>
+  <img src="https://img.shields.io/badge/Shell-Scripting-8b5cf6?style=for-the-badge&logo=gnubash&logoColor=white&v=1"/>
 </p>
 
 ### 🖥️ Systems & Tools
@@ -76,11 +76,11 @@
 
 ### 🔐 Cybersecurity Focus
 <p align="center">
-  <img src="https://img.shields.io/badge/SIEM-Learning-7c3aed?style=for-the-badge&logo=elasticsearch&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Incident_Response-Active-8b5cf6?style=for-the-badge&logo=paloaltonetworks&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Threat_Detection-Learning-a78bfa?style=for-the-badge&logo=virustotal&logoColor=white"/>
-  <img src="https://img.shields.io/badge/IAM_&_Zero_Trust-Exploring-c084fc?style=for-the-badge&logo=auth0&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Network_Security-Studying-d8b4fe?style=for-the-badge&logo=wireshark&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SIEM-Learning-7c3aed?style=for-the-badge&logo=elasticsearch&logoColor=white&v=1"/>
+  <img src="https://img.shields.io/badge/Incident_Response-Active-8b5cf6?style=for-the-badge&logo=paloaltonetworks&logoColor=white&v=1"/>
+  <img src="https://img.shields.io/badge/Threat_Detection-Learning-a78bfa?style=for-the-badge&logo=virustotal&logoColor=white&v=1"/>
+  <img src="https://img.shields.io/badge/IAM_&_Zero_Trust-Exploring-c084fc?style=for-the-badge&logo=auth0&logoColor=white&v=1"/>
+  <img src="https://img.shields.io/badge/Network_Security-Studying-d8b4fe?style=for-the-badge&logo=wireshark&logoColor=white&v=1"/>
 </p>
 
 ---
@@ -110,15 +110,15 @@
 
 <p align="center">
   <a href="https://github.com/IlamHub">
-    <img src="https://img.shields.io/badge/GitHub-IlamHub-7c3aed?style=for-the-badge&logo=github&logoColor=white"/>
+    <img src="https://img.shields.io/badge/GitHub-IlamHub-7c3aed?style=for-the-badge&logo=github&logoColor=white&v=1"/>
   </a>
   &nbsp;
   <a href="https://www.linkedin.com/in/ilam-mtr/">
-    <img src="https://img.shields.io/badge/LinkedIn-Ilam-8b5cf6?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-Ilam-8b5cf6?style=for-the-badge&logo=linkedin&logoColor=white&v=1"/>
   </a>
   &nbsp;
   <a href="https://tryhackme.com/">
-    <img src="https://img.shields.io/badge/TryHackMe-ilam.edu-a78bfa?style=for-the-badge&logo=tryhackme&logoColor=white"/>
+    <img src="https://img.shields.io/badge/TryHackMe-ilam.edu-a78bfa?style=for-the-badge&logo=tryhackme&logoColor=white&v=1"/>
   </a>
 </p>
 
