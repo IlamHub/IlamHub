@@ -1,27 +1,27 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=C084FC&center=true&vCenter=true&width=750&lines=Hey+there%2C+I'm+Ilam+;Cloud+Security+Engineer+in+Progress;Cybersecurity+Learner+%7C+DevOps+Explorer;SOC+Analyst+%E2%86%92+Cloud+Security+Path" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=600&amp;size=28&amp;pause=1000&amp;color=C084FC&amp;center=true&amp;vCenter=true&amp;width=750&amp;lines=Hey+there%2C+I'm+Ilam+;Cloud+Security+Engineer+in+Progress;Cybersecurity+Learner+%7C+DevOps+Explorer;SOC+Analyst+%E2%86%92+Cloud+Security+Path" alt="Typing SVG" />
 </h1>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=2&width=100%25" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&amp;color=gradient&amp;customColorList=6,11,20&amp;height=2&amp;width=100%25" />
 </p>
 
 <p align="center">
   <a href="https://github.com/IlamHub">
-    <img src="https://komarev.com/ghpvc/?username=IlamHub&label=Profile+Views&color=7c3aed&style=for-the-badge" alt="profile views"/>
+    <img src="https://komarev.com/ghpvc/?username=IlamHub&amp;label=Profile+Views&amp;color=7c3aed&amp;style=for-the-badge" alt="profile views"/>
   </a>
   &nbsp;&nbsp;
   <a href="https://github.com/IlamHub?tab=followers">
-    <img src="https://img.shields.io/github/followers/IlamHub?label=Followers&style=for-the-badge&color=8b5cf6&logo=github&logoColor=white&v=1" alt="followers"/>
+    <img src="https://img.shields.io/github/followers/IlamHub?label=Followers&amp;style=for-the-badge&amp;color=8b5cf6&amp;logo=github&amp;logoColor=white" alt="followers"/>
   </a>
   &nbsp;&nbsp;
   <a href="https://github.com/IlamHub?tab=stars">
-    <img src="https://img.shields.io/github/stars/IlamHub?label=Stars&style=for-the-badge&color=a78bfa&logo=github&logoColor=white&v=1" alt="stars"/>
+    <img src="https://img.shields.io/github/stars/IlamHub?label=Stars&amp;style=for-the-badge&amp;color=a78bfa&amp;logo=github&amp;logoColor=white" alt="stars"/>
   </a>
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=2&width=100%25" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&amp;color=gradient&amp;customColorList=6,11,20&amp;height=2&amp;width=100%25" />
 </p>
 
 ---
@@ -57,30 +57,30 @@
 
 ### 💻 Languages
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,javascript,html,css,c,dart,bash,ruby&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=python,javascript,html,css,c,dart,bash,ruby&amp;theme=dark" />
   <br/><br/>
-  <img src="https://img.shields.io/badge/Verilog-HDL-7c3aed?style=for-the-badge&logoColor=white&v=1"/>
-  <img src="https://img.shields.io/badge/Puppet-IaC-a78bfa?style=for-the-badge&logo=puppet&logoColor=white&v=1"/>
-  <img src="https://img.shields.io/badge/Shell-Scripting-8b5cf6?style=for-the-badge&logo=gnubash&logoColor=white&v=1"/>
+  <img src="https://img.shields.io/badge/Verilog-HDL-7c3aed?style=for-the-badge&amp;logoColor=white"/>
+  <img src="https://img.shields.io/badge/Puppet-IaC-a78bfa?style=for-the-badge&amp;logo=puppet&amp;logoColor=white"/>
+  <img src="https://img.shields.io/badge/Shell-Scripting-8b5cf6?style=for-the-badge&amp;logo=gnubash&amp;logoColor=white"/>
 </p>
 
 ### 🖥️ Systems & Tools
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=linux,git,github,bash,vim,vscode&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=linux,git,github,bash,vim,vscode&amp;theme=dark" />
 </p>
 
 ### ☁️ Cloud & DevOps
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=aws,azure,docker,terraform&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=aws,azure,docker,terraform&amp;theme=dark" />
 </p>
 
 ### 🔐 Cybersecurity Focus
 <p align="center">
-  <img src="https://img.shields.io/badge/SIEM-Learning-7c3aed?style=for-the-badge&logo=elasticsearch&logoColor=white&v=1"/>
-  <img src="https://img.shields.io/badge/Incident_Response-Active-8b5cf6?style=for-the-badge&logo=paloaltonetworks&logoColor=white&v=1"/>
-  <img src="https://img.shields.io/badge/Threat_Detection-Learning-a78bfa?style=for-the-badge&logo=virustotal&logoColor=white&v=1"/>
-  <img src="https://img.shields.io/badge/IAM_&_Zero_Trust-Exploring-c084fc?style=for-the-badge&logo=auth0&logoColor=white&v=1"/>
-  <img src="https://img.shields.io/badge/Network_Security-Studying-d8b4fe?style=for-the-badge&logo=wireshark&logoColor=white&v=1"/>
+  <img src="https://img.shields.io/badge/SIEM-Learning-7c3aed?style=for-the-badge&amp;logo=elasticsearch&amp;logoColor=white"/>
+  <img src="https://img.shields.io/badge/Incident_Response-Active-8b5cf6?style=for-the-badge&amp;logo=paloaltonetworks&amp;logoColor=white"/>
+  <img src="https://img.shields.io/badge/Threat_Detection-Learning-a78bfa?style=for-the-badge&amp;logo=virustotal&amp;logoColor=white"/>
+  <img src="https://img.shields.io/badge/IAM_%26_Zero_Trust-Exploring-c084fc?style=for-the-badge&amp;logo=auth0&amp;logoColor=white"/>
+  <img src="https://img.shields.io/badge/Network_Security-Studying-d8b4fe?style=for-the-badge&amp;logo=wireshark&amp;logoColor=white"/>
 </p>
 
 ---
@@ -110,18 +110,18 @@
 
 <p align="center">
   <a href="https://github.com/IlamHub">
-    <img src="https://img.shields.io/badge/GitHub-IlamHub-7c3aed?style=for-the-badge&logo=github&logoColor=white&v=1"/>
+    <img src="https://img.shields.io/badge/GitHub-IlamHub-7c3aed?style=for-the-badge&amp;logo=github&amp;logoColor=white"/>
   </a>
   &nbsp;
   <a href="https://www.linkedin.com/in/ilam-mtr/">
-    <img src="https://img.shields.io/badge/LinkedIn-Ilam-8b5cf6?style=for-the-badge&logo=linkedin&logoColor=white&v=1"/>
+    <img src="https://img.shields.io/badge/LinkedIn-Ilam-8b5cf6?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white"/>
   </a>
   &nbsp;
   <a href="https://tryhackme.com/">
-    <img src="https://img.shields.io/badge/TryHackMe-ilam.edu-a78bfa?style=for-the-badge&logo=tryhackme&logoColor=white&v=1"/>
+    <img src="https://img.shields.io/badge/TryHackMe-ilam.edu-a78bfa?style=for-the-badge&amp;logo=tryhackme&amp;logoColor=white"/>
   </a>
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=c084fc&height=80&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=c084fc&amp;height=80&amp;section=footer"/>
 </p>
